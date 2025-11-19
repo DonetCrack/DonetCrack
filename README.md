@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm **a Project Assistant Professor at the University of Tokyo** and **a Founder / CEO of a startup company**.
+Computer vision and HCI
+
+## News
+**[Mar 2024]** Paper "[Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation](https://arxiv.org/abs/2311.13602)" got accepted to **CVPR 2024**. This paper was selected as an **ORAL** paper, which is out of 11,532 submissions, it's in the **top 90 (top 0.78%) paper** and among the 2,719 accepted papers (top 3.3%)!
+We provide an all-in-one package for content-aware layout generation. 
+**[Nov 2023]** Paper "[A Structure-Guided Diffusion Model for Large-Hole Image Completion](https://arxiv.org/abs/2211.10437)" got accepted to **BMVC 2023**.  
+**[Jan 2022]** Paper "[Fast Nonlinear Image Unblending](https://openaccess.thecvf.com/content/WACV2022/papers/Horita_Fast_Nonlinear_Image_Unblending_WACV_2022_paper.pdf)" got accepted to **WACV 2022**. Please see [paper](https://openaccess.thecvf.com/content/WACV2022/papers/Horita_Fast_Nonlinear_Image_Unblending_WACV_2022_paper.pdf).
+
+
 <!--
 **DonetCrack/DonetCrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
